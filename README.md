@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+ 🌱 I’m currently writing in [My Blog](https://morokunoumi.pages.dev/)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemisiajaponica&show_icons=true&theme=blueberry)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemisiajaponica&layout=compact&show_icons=true&theme=blueberry)]()
+
