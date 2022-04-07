@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
- 🌱 I’m currently writing in [My Blog](https://morokunoumi.pages.dev/)
+ 🌱 I’m currently writing in [My Blog](https://akaito.xyz/)
 
 
 
